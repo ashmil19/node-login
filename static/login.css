@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #6913cc !important;
+}
+
+.parent{
+    height: 100vh;
+}
+
+.form-control {
+    background-color: #212529 !important;
+}
